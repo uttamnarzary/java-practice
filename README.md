@@ -41,7 +41,7 @@ Java programs I solved myself while learning, organized by topic. I'm building t
 
 ## Related repository
 
-- [Test Automation Framework](https://github.com/[your-username]/[automation-repo-name]): Selenium + TestNG + Maven framework (in progress)
+- [Test Automation Framework](https://github.com/uttamnarzary/[automation-repo-name]): Selenium + TestNG + Maven framework (in progress)
 
 ## About
 
