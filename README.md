@@ -20,7 +20,7 @@ Java programs I solved myself while learning, organized by topic. I'm building t
 1. Install JDK 17 or later.
 2. Clone the repo:
 ```
-   git clone https://github.com/[your-username]/java-practice.git
+   git clone https://github.com/uttamnarzary/java-practice.git
    cd java-practice
 ```
 3. Compile and run any file, for example:
